@@ -1,5 +1,5 @@
-# VernamCyipher
-Vernam Cyipher encrypt and  decrypt in python  
+# VernamCipher
+Vernam Cipher encrypt and  decrypt in python  
 the output is in  Hex  
 
 
